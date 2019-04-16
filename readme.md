@@ -38,6 +38,9 @@ This will:
 
 
 ### Commands
+
+First instal and get the movie services working.
+
 npm install          # setup node dependencies  
 npm test             # unit test with mocha  
 npm start            # starts the service  
