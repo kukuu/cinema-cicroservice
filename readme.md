@@ -39,7 +39,7 @@ This will:
 
 ### Commands
 
-First instal and get the movie services working.
+First install and get the movie services working.
 
 npm install          # setup node dependencies  
 npm test             # unit test with mocha  
