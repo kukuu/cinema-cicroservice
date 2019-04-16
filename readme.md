@@ -9,12 +9,12 @@
 
 ### Microservices
 
-- [Movies Service example](./movies-service)
-- [Cinema Catalog Service example](./cinema-catalog-service)
-- [Booking Service example](./booking-service)
-- [Payment Service example](./payment-service)
-- [Notification Service example](./notification-service)
-- [API Gateway Service example](./api-gateway)
+- [Movies Service example] - ./movies-service 
+- [Cinema Catalog Service example]- ./cinema-catalog-service
+- [Booking Service example] - ./booking-service
+- [Payment Service example] - ./payment-service
+- [Notification Service example] - ./notification-service
+- [API Gateway Service example] -  ./api-gateway 
 
 ### How to run the cinema microservice
 
