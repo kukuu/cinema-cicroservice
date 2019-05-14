@@ -4,7 +4,7 @@
 DRIVER="virtualbox"
 MANAGERS=1
 WORKERS=2
-DISK_SIZE="20000"
+DISK_SIZE="20050"
 MEMORY="2048"
 DOCKER_VERSION="https://github.com/boot2docker/boot2docker/releases/download/v1.13.0/boot2docker.iso"
 ADDITIONAL_PARAMS=
